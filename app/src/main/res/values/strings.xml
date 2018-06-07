@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prochito IT Weather App</string>
+    <string name="API_KEY">0f54c0ff564e517393f09c385fa0fa06</string>
+    <string name="API_HOST">api.openweathermap.org/data/2.5/weather?q=</string>
+</resources>
